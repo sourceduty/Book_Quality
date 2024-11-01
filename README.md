@@ -50,6 +50,10 @@ This edition is highly recommended for its insightful and accessible commentary,
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
+<br>
+[Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
