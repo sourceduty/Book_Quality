@@ -44,6 +44,9 @@ Rating: 9/10
 This edition is highly recommended for its insightful and accessible commentary, which enriches the reading experience and deepens understanding of Mary Shelley's *Frankenstein*. It successfully bridges the gap between literature and science, making it a significant contribution to the ongoing dialogue about the role of science in society.
 
 #
+![Book Learning](https://github.com/user-attachments/assets/e5e8e6c2-0f9c-427e-9269-7b55635af25f)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
