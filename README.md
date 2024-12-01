@@ -54,6 +54,8 @@ This edition is highly recommended for its insightful and accessible commentary,
 [Dynamic Reader](https://github.com/sourceduty/Dynamic_Reader)
 <br>
 [Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
